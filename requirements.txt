@@ -1,0 +1,3 @@
+# Python 3.8 or newer is required (download it from python.org).
+# gzip, json, math, os, pathlib and sys are built into Python - nothing to install for them.
+colorama>=0.4.6
